@@ -3,11 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **SQL Data Exploration**
+- 🌱 I’m currently learning **Excel & Power BI**
 
-- 🌱 I’m currently learning **SQL, Tableau, Power BI, Excel**
-
-- 👯 I’m looking to collaborate on **Data, Database**
+- 👯 I’m looking to collaborate on **Jr Data Analysis, Jr Technical roles**
 
 - 👨‍💻 All of my projects are available at [https://github.com/users/Octav06/projects/1/views/1](https://github.com/users/Octav06/projects/1/views/1)
 
