@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **octavbadiu06@gmail.com**
 
-- 📄 Know about my experiences [[https://github.com/Octav06/My-CV-Updated/blob/main/Octav%20Badiu%20-%20CV%20Updated.pdf](https://github.com/Octav06/My-CV-Updated/blob/main/Octav%20Badiu%20-%20CV%20Updated.pdf)](https://github.com/Octav06/My-CV-Updated/blob/main/Octav-Badiu-November-2022.pdf)
+- 📄 Know about my experiences (https://github.com/Octav06/My-CV-Updated/blob/main/Octav-Badiu-November-2022.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
