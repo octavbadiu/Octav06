@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Excel & Power BI**
+- 🌱 I’m currently learning **Power BI**
 
 - 👯 I’m looking to collaborate on **Intern Data Analysis, Jr Data roles**
 
