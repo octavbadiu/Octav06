@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Excel & Power BI**
 
-- 👯 I’m looking to collaborate on **Jr Data Analysis, Jr Technical roles**
+- 👯 I’m looking to collaborate on **Intern Data Analysis, Jr Data roles**
 
 - 👨‍💻 All of my projects are available at [https://github.com/users/Octav06/projects/1/views/1](https://github.com/users/Octav06/projects/1/views/1)
 
