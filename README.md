@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Octav Badiu</h1>
-<h3 align="center">A passionate future data analyst from Romania.</h3>
+<h3 align="center">A passionate future specialist from Romania.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
