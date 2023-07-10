@@ -3,9 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Power BI**
-
-- 👯 I’m looking to collaborate on **Intern Data Analysis, Jr Data roles**
+- 🌱 I’m currently learning **about Business Intelligence solutions**
 
 - 👨‍💻 All of my projects are available at [https://github.com/users/Octav06/projects/1/views/1](https://github.com/users/Octav06/projects/1/views/1)
 
