@@ -1,15 +1,21 @@
-<h1 align="center">Hi 👋, I'm Octav Badiu</h1>
-<h3 align="center">A passionate future specialist from Romania.</h3>
+<h1 align="center">Hi there!🙋‍♂️</h1>
+<h3 align="center"> I'm Octav, a future BI Developer from Bucharest, Romania.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+- ✨ About Me ✨
+🌍 current Presales Engineer, future BI Developer who loves making impact
+👨‍💻 Presales Engineer at Dell Technologies
+🏀 An avid lover of basketball
 
-- 🌱 I’m currently learning **about Business Intelligence solutions**
+- ⚡️ Currently ⚡️
+I am engaged in a six-month intensive bootcamp for Business Intelligence Developer.
+Looking to network with people in BI/Data field
+Working on portfolio projects
 
-- 👨‍💻 All of my projects are available at [https://github.com/users/Octav06/projects/1/views/1](https://github.com/users/Octav06/projects/1/views/1)
+- 💡 Core Competencies 💡
+Tools: Excel, Power BI, Tableau, SQL, Python
+Skills: Data Analysis, Data Visualization, Data Storytelling, ETL
 
 - 📫 How to reach me **octavbadiu06@gmail.com**
-
-- 📄 Know about my experiences (https://github.com/Octav06/My-CV-Updated/blob/main/Octav-Badiu-November-2022.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
