@@ -1,9 +1,9 @@
 <h1 align="left">Hi there!🙋‍♂️</h1>
 
 <h3 align="left"> I'm Octav, 
-a future BI Developer from Bucharest, Romania.</h3>
+ a future BI Developer from Bucharest, Romania.</h3>
 
-- ✨ About Me ✨
+✨ About Me ✨
 
 • 🌍 Current Presales Engineer, future BI Developer who loves making impact
 
@@ -11,7 +11,7 @@ a future BI Developer from Bucharest, Romania.</h3>
 
 • 🏀 An avid lover of basketball
 
-- ⚡️ Currently ⚡️
+⚡️ Currently ⚡️
 
 • I am engaged in a six-month intensive bootcamp for Business Intelligence Developer.
 
@@ -19,7 +19,7 @@ a future BI Developer from Bucharest, Romania.</h3>
 
 • Working on portfolio projects
 
-- 💡 Core Competencies 💡
+💡 Core Competencies 💡
 
 • Tools: Excel, Power BI, Tableau, SQL, Python
 
