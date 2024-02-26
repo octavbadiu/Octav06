@@ -1,30 +1,31 @@
-<h1 align="center">Hi there!🙋‍♂️</h1>
-<h3 align="center"> I'm Octav, 
+<h1 align="left">Hi there!🙋‍♂️</h1>
+
+<h3 align="left"> I'm Octav, 
 a future BI Developer from Bucharest, Romania.</h3>
 
 - ✨ About Me ✨
 
-🌍 current Presales Engineer, future BI Developer who loves making impact
+• 🌍 Current Presales Engineer, future BI Developer who loves making impact
 
-👨‍💻 Presales Engineer at Dell Technologies
+• 👨‍💻 Presales Engineer at Dell Technologies
 
-🏀 An avid lover of basketball
+• 🏀 An avid lover of basketball
 
 - ⚡️ Currently ⚡️
 
-I am engaged in a six-month intensive bootcamp for Business Intelligence Developer.
+• I am engaged in a six-month intensive bootcamp for Business Intelligence Developer.
 
-Looking to network with people in BI/Data field
+• Looking to network with people in BI/Data field
 
-Working on portfolio projects
+• Working on portfolio projects
 
 - 💡 Core Competencies 💡
 
-Tools: Excel, Power BI, Tableau, SQL, Python
+• Tools: Excel, Power BI, Tableau, SQL, Python
 
-Skills: Data Analysis, Data Visualization, Data Storytelling, ETL
+• Skills: Data Analysis, Data Visualization, Data Storytelling, ETL
 
-- 📫 How to reach me **octavbadiu06@gmail.com**
+• 📫 How to reach me **octavbadiu06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
